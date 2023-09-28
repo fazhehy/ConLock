@@ -6,9 +6,9 @@
 
 总体外观如下
 
-![](.\3_Document\image\室内.jpg)
+![](3_Document/image/室内.jpg)
 
-![](.\3_Document\image\室外.jpg)
+![](3_Document/image/室外.jpg)
 
 关于结构的一些说明：
 
@@ -36,7 +36,7 @@
 
 - 我移植了https://github.com/hello-myj/stm32_oled的开源库（~~原谅我曾想看懂那些算法~~），OLED的UI就是此开源库设计的。另附上UI
 
-  ![](.\3_Document\image\UI特写.jpg)
+  ![](3_Document/image/UI特写.jpg)
 
 ​		指纹验证成功和失败UI都有相应的变化的，在这里就不放图了。
 
