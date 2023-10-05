@@ -34,7 +34,7 @@
 
 ## 软件设计
 
-- 我移植了https://github.com/hello-myj/stm32_oled的开源库（~~原谅我曾想看懂那些算法~~），OLED的UI就是此开源库设计的。另附上UI
+- 我移植了https://github.com/hello-myj/stm32_oled 的开源库（~~原谅我曾想看懂那些算法~~），OLED的UI就是此开源库设计的。另附上UI
 
   ![](3_Document/image/UI特写.jpg)
 
